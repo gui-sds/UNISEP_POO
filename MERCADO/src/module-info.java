@@ -1,0 +1,3 @@
+module MERCADO {
+    public c;
+}
